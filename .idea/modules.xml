@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Lintcode.iml" filepath="$PROJECT_DIR$/Lintcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylintcode.iml" filepath="$PROJECT_DIR$/mylintcode.iml" />
     </modules>
   </component>
 </project>
