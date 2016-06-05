@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Created by yanglu on 16/5/10.
  */
-public class Solution {
+class s131 {
     public static ArrayList<ArrayList<Integer>> buildingOutline(int[][] buildings) {
         ArrayList<ArrayList<Integer>> r=new ArrayList<ArrayList<Integer>>();
         ArrayList<ArrayList<Integer>> ans=new ArrayList<ArrayList<Integer>>();
