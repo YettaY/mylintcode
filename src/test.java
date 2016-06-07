@@ -16,9 +16,10 @@ public class test {
        long tagclass =(tagid & 0xFFFF000000000000l) >> 48;
         long weight=tagid & 0x000000000000FFFFl;
         long tagcontent = tagid & 0xFFFFFFFFFFFF0000l;
+        long tagmedium = tagid & 0xFFFFFFFF0000l;
         StringBuilder sb=new StringBuilder();
         sb.append(tagcontent+"," +tagclass+","+weight);
-        System.out.println(sb.toString());
+        System.out.println(tagmedium);
 
 
    //     System.out.println(tag+" "+tag.substring(0,2));
