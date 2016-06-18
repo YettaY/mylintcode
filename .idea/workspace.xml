@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="563b1d4b-d94f-4bd6-8c2c-9d848bc0d591" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gCampus.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Cat.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Cat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Dog.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Dog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/ListNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Main.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/NestedInteger.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/NestedInteger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/NestedIterator.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/NestedIterator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Shape.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Shape.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/ShapeFactory.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/ShapeFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Toy.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Toy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/ToyFactory.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/ToyFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s204.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s204.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s453.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s453.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s469.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s469.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s480.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s480.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s510.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s510.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s511.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s511.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s514.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s514.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s524.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s524.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s532.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s532.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s534.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s534.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s535.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s535.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s539.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s539.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s547.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s547.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s548.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s548.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/B-small-practice.in" afterPath="$PROJECT_DIR$/B-small-practice.in" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/in.txt" afterPath="$PROJECT_DIR$/in.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out.txt" afterPath="$PROJECT_DIR$/out.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gCube.java" afterPath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gCube.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gCampus.java" afterPath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gCampus.java" />
     </list>
     <ignored path="mylintcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -82,8 +54,8 @@
       <file leaf-file-name="gCampus.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gCampus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="104" column="34" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
+            <state relative-caret-position="322">
+              <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -696,7 +668,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16503668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14936887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1068,8 +1040,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gCampus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="104" column="34" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
+        <state relative-caret-position="322">
+          <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

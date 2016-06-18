@@ -81,6 +81,8 @@ public class gCampus {
         in.nextLine();//截取回车\r
 
         for (int id=1;id<=t;id++){
+            road.clear();
+            set.clear();
             System.out.println("Case #"+id+":");
             bw.write("Case #"+id+":\n");
             String[] s=in.nextLine().split(" ");
