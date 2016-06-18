@@ -1,15 +1,9 @@
 2
-10
-Daniil Barantsev
-Maria Balaba
-Krisztina Barta
-Patrice Archetto
-Petra Arponen
-Giovanna Almeida Leto
-Tanith Belbin
-Melania Albea
-Lubov Bakirova
-Mao Asada
-2
-Fedor Andreev
-Alessia Aureli
+3 3
+0 1 10
+1 2 3
+2 0 3
+3 3
+0 1 10
+1 2 3
+2 1 3
