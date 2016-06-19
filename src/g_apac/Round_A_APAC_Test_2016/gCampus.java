@@ -1,6 +1,5 @@
 package g_apac.Round_A_APAC_Test_2016;
 
-import sun.security.krb5.internal.crypto.HmacSha1Aes128CksumType;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -52,9 +51,9 @@ public class gCampus {
                 }
         }
         for(int i = 0; i < n; i++) {
-          //  System.out.println("从"+start+"出发到"+i+"的最短路径为："+path[i]);
+            System.out.println("从"+start+"出发到"+i+"的最短路径为："+path[i]);
             String[] s=path[i].split("-");
-            int u=start,v=0;
+            int u=start,v=start;
             for (int j=1;j<s.length;j++){
                 v=Integer.valueOf(s[j]);
                 for (Integer key : road.keySet()) {
@@ -73,7 +72,7 @@ public class gCampus {
     }
 
     public static void main(String[] args)throws IOException{
-        Scanner in=new Scanner(new File("C-small-practice.in"));
+        Scanner in=new Scanner(new File("in.txt"));
         FileWriter fw=new FileWriter("out.txt");
         BufferedWriter bw=new BufferedWriter(fw);
 

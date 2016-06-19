@@ -2,7 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="563b1d4b-d94f-4bd6-8c2c-9d848bc0d591" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Cat.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Cat.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Dog.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Dog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/ListNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Main.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter$Node.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter$Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter$SortByOrder.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter$SortByOrder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/NestedInteger.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/NestedInteger.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/NestedIterator.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/NestedIterator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Shape.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Shape.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/ShapeFactory.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/ShapeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Toy.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Toy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/ToyFactory.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/ToyFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Tweet.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Tweet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Bad_Horse.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Bad_Horse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Captain_Hammer.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Captain_Hammer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Moist.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Moist.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/Googol_String.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/Googol_String.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gCampus.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gCampus.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gCube.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gCube.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution$1.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution$2.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/s131$1.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/s131$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/s131$2.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/s131$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/s131.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/s131.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s132/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s132/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s132/TrieNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s132/TrieNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s132/tree.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s132/tree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s136.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s136.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s178$uninfind.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s178$uninfind.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s178.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s178.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s204.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s204.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s223.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s223.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s391/Interval.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s391/Interval.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s391/point.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s391/point.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s391/s391$1.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s391/s391$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s391/s391.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s391/s391.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s4/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s4/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s426.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s426.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s427.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s427.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s442/Trie.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s442/Trie.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s442/TrieNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s442/TrieNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s451.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s451.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s452.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s452.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s453.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s453.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s469.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s469.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s473/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s473/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s473/trie.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s473/trie.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s477.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s477.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s480.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s480.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s488.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s488.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/Rectangle.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/Rectangle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/Shape.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/Shape.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/ShapeFactory.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/ShapeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/Square.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/Square.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/Triangle.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/Triangle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s508.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s508.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s510.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s510.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s511.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s511.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s512/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s512/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s513/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s513/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s514.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s514.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s515/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s515/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s516/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s516/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s524.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s524.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s532.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s532.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s532_2.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s532_2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s534.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s534.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s535.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s535.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s539.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s539.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s547.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s547.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s548.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s548.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/test.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/tree.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/tree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/in.txt" afterPath="$PROJECT_DIR$/in.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out.txt" afterPath="$PROJECT_DIR$/out.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gCampus.java" afterPath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gCampus.java" />
     </list>
@@ -34,7 +112,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,11 +122,9 @@
       <file leaf-file-name="gCube.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gCube.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-150">
+            <state relative-caret-position="289">
               <caret line="18" column="39" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,8 +132,8 @@
       <file leaf-file-name="gCampus.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gCampus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+            <state relative-caret-position="75">
+              <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,7 +144,7 @@
       <file leaf-file-name="Moist.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/g_apac/Practice_Round_APAC_test_2016/Moist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
+            <state relative-caret-position="221">
               <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
               <folding />
             </state>
@@ -111,10 +189,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="579" />
-    <option name="y" value="12" />
-    <option name="width" value="1486" />
-    <option name="height" value="933" />
+    <option name="x" value="533" />
+    <option name="y" value="23" />
+    <option name="width" value="1009" />
+    <option name="height" value="730" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -141,34 +219,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
+              <option name="myItemId" value="Lintcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
+              <option name="myItemId" value="Lintcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
+              <option name="myItemId" value="Lintcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
+              <option name="myItemId" value="Lintcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
+              <option name="myItemId" value="Lintcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -178,11 +256,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
+              <option name="myItemId" value="Lintcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
+              <option name="myItemId" value="Lintcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -200,11 +278,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
+              <option name="myItemId" value="Lintcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
+              <option name="myItemId" value="Lintcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -213,10 +291,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="g_apac" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Practice_Round_APAC_test_2016" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -656,8 +730,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="579" y="12" width="1486" height="933" extended-state="0" />
-    <editor active="true" />
+    <frame x="533" y="23" width="1009" height="730" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -667,11 +741,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27899686" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14936887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3009307" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24939467" sideWeight="0.49391305" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -712,9 +786,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -722,7 +794,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -738,7 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,9 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,7 +833,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -779,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,9 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -804,7 +872,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -820,7 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -835,17 +904,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/g_apac/Bad_Horse.java" />
     <entry file="file://$PROJECT_DIR$/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -854,16 +933,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/g_apac/Bad_Horse.java" />
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -886,7 +958,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -991,9 +1065,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
           <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1008,13 +1079,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
           <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/g_apac/Practice_Round_APAC_test_2016/Moist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
+        <state relative-caret-position="221">
           <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
           <folding />
         </state>
@@ -1024,24 +1094,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gCube.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
+        <state relative-caret-position="289">
           <caret line="18" column="39" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gCampus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+        <state relative-caret-position="75">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
