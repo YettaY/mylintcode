@@ -1,14 +1,16 @@
 package g_apac.Round_A_APAC_Test_2016;
 
 
-import java.io.BufferedWriter;
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 
 /**
- * Created by Administrator on 2016/6/18.
+ * floyd算法,求出所有点对的最短路径,
+ * 对于每条road,若road(start,end)的时间小于start,end的最短路径
+ * 则说明该road没有被使用
  */
 public class gCampus {
     static class Edge implements Comparable<Edge> {
