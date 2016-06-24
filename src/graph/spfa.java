@@ -1,7 +1,9 @@
 package graph;
 import java.util.*;
 /**
- * Created by Administrator on 2016/6/22.
+ * http://www.xuebuyuan.com/574145.html
+ * http://blog.csdn.net/kg20006/article/details/46327177
+ * http://www.cnblogs.com/g0feng/archive/2012/09/16/2687710.html
  */
 public class spfa {
     static int n, m, k;
