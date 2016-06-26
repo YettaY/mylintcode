@@ -8,98 +8,92 @@ import java.util.*;
 /**
  * Created by yanglu on 16/6/19.
  */
-public class gSnake {
-    static class node{
-        int x,y;
-    }
-    static class snake{
-        node[] p=new node[1000005];
-        int d, n, x, y;
+ public class gSnake {
+    static private class Pair<F, S> {
+        public final F first;
+        public final S second;
+
+        public Pair(F first, S second) {
+            this.first = first;
+            this.second = second;
+        }
+
+        @Override
+        public boolean equals(Object o) {
+            if (!(o instanceof Pair)) {
+                return false;
+            }
+            Pair<?, ?> p = (Pair<?, ?>) o;
+            return Objects.equals(p.first, first) && Objects.equals(p.second, second);
+        }
+
+        @Override
+        public int hashCode() {
+            return (first == null ? 0 : first.hashCode()) ^ (second == null ? 0 : second.hashCode());
+        }
+
+        public static <A, B> Pair <A, B> create(A a, B b) {
+            return new Pair<A, B>(a, b);
+        }
     }
 
-    public static snake a;
-    static int[] dx={0,1,0,-1};
-    static int[] dy={1,0,-1,0};
-    static int m, r, c;
-    static int[][] g;
+    static int[][] direct = {{0,1},{1,0},{0,-1},{-1,0}};
 
     public static void main(String[] args) throws IOException{
-        Scanner in=new Scanner(new File("D-large-practice.in.txt"));
+
+        Scanner in=new Scanner(new File("D-large-practice.in"));
         FileWriter fw=new FileWriter("out.txt");
         BufferedWriter bw=new BufferedWriter(fw);
 
         int tcase=in.nextInt();
         for (int id=1;id<=tcase;id++){
             bw.write("Case #"+id+": ");
+            int lpos=1,rpos=1;
+            int ndir = 0;
+            int length = 1;
 
-            m=in.nextInt();
-            r=in.nextInt();
-            c=in.nextInt();
-            g=new int[105][105];
-            for (int i=1;i<=r;i++)
-                for (int j=1;j<=c;j++)
-                    g[i][j]=(i+j)%2;
+            int x=in.nextInt(), r=in.nextInt(), c=in.nextInt();
 
-            int[] t=new int[1000005];
-            char[] str=new char[5];
-            for (int i=1;i<=m;i++){
-                int x=in.nextInt();
-                str=in.next().toCharArray();
-                if (str[0]=='R')
-                    t[x]=1;
+            Map<Integer,Character> m=new HashMap<>();
+            Map<Pair,Integer> last=new HashMap<>();
+
+
+            for (int i=1;i<=x;i++){
+                int sec = in.nextInt();
+                char dir = in.next().charAt(0);
+                m.put(sec, dir);
+            }
+            last.put(new Pair(1,1),0);
+            for(int j=1;j<=2000000;j++)
+            {
+                lpos+=direct[ndir][0];
+                if(lpos==0)lpos=r;
+                if(lpos==r+1)lpos=1;
+                rpos+=direct[ndir][1];
+                if(rpos==0)rpos=c;
+                if(rpos==c+1)rpos=1;
+                if(last.containsKey(new Pair(lpos,rpos)))
+                {
+                    if(last.get(new Pair(lpos,rpos))+length>j)break;
+                }
                 else
-                    t[x]=3;
+                {
+                    if((lpos+rpos)%2==1)
+                        length++;
+                }
+                last.put(new Pair(lpos,rpos),j);
+                if(m.containsKey(j))
+                {
+                    if(m.get(j)=='R')ndir++;
+                    else ndir--;
+                    ndir &= 3;
+                }
 
             }
-
-            a=new snake();
-            for (int i=0;i<a.p.length;i++)
-                a.p[i]=new node();
-            a.x=a.y=1;
-            a.n=1;
-            a.d=0;
-            a.p[1].x=a.p[1].y=1;
-            for (int i=1;i<=20000;i++) {
-                int k = move();
-                if (k == 0)
-                    break;
-                a.d = (a.d + t[i]) % 4;
-            }
-            bw.write(a.n+"\n");
+            bw.write(length+"\n");
         }
         bw.close();
         fw.close();
     }
-    public static int move(){
-        int nx=a.x+dx[a.d];
-        int ny=a.y+dy[a.d];
-        if (nx==0)
-            nx=r;
-        if (nx>r)
-            nx=1;
-        if (ny==0)
-            ny=c;
-        if (ny>c)
-            ny=1;
-        if (g[nx][ny]==0){
-            for(int i=1;i<a.n;i++){
-                a.p[i]=a.p[i+1];
-                if(a.p[i].x==nx && a.p[i].y==ny)
-                    return 0;
-            }
-            a.p[a.n].x=nx;
-            a.p[a.n].y=ny;
-        }
-        if(g[nx][ny]==1){
-            for(int i=1;i<=a.n;i++){
-                if(a.p[i].x==nx && a.p[i].y==ny)
-                    return 0;
-            }
-            ++a.n;
-            a.p[a.n].x=nx;a.p[a.n].y=ny;
-            g[nx][ny]=0;
-        }
-        a.x=nx;a.y=ny;
-        return 1;
-    }
+
 }
