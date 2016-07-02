@@ -16,7 +16,7 @@ import java.util.*;
  */
 public class Dijkstra1 {
 
-    static class node{
+    static private class node{
         int s,e,c;
         public node(int s,int e,int c){
             this.s=s;

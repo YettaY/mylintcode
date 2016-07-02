@@ -4,7 +4,7 @@ import java.util.*;
 /**
  * Created by Administrator on 2016/6/1.
  */
-public class test {
+public class test1 {
     public static void main(String[] args) throws IOException {
        // FileReader f=new FileReader("C:\\Users\\Administrator\\Desktop\\tosogou_50w_result_uniq.txt");
      //   BufferedReader br=new BufferedReader(f);

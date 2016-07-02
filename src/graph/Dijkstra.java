@@ -8,6 +8,8 @@ import java.io.IOException;
 import java.util.*;
 
 /**
+ * 有负权回路则不行，用spfa
+ *
  * g_apac.Round_A_APAC_Test_2016的gCampus题
  * 也可以用dijkstra算法实现, dijkstra是求单元点对的最短路径,遍历n次该算法就能求出所有点对的最短路径
  * 其他步骤同gCampus的floyd算法实现
@@ -16,7 +18,7 @@ import java.util.*;
  */
 public class Dijkstra {
 
-    static class node{
+    static private class node{
         int s,e,c;
         public node(int s,int e,int c){
             this.s=s;
