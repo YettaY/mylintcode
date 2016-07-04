@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class gCube {
     public static void main(String[] args) throws IOException{
-        Scanner in=new Scanner(new File("B-large-practice.in"));
+        Scanner in=new Scanner(new File("in.txt"));//B-large-practice.in
         FileWriter fw=new FileWriter("out.txt");
         BufferedWriter bw=new BufferedWriter(fw);
 

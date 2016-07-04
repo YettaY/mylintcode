@@ -15,7 +15,7 @@ import java.util.Scanner;
  */
 public class Captain_Hammer {
     public static void main(String[] args) throws IOException {
-        Scanner in=new Scanner(new File("B-small-practice.in"));
+        Scanner in=new Scanner(new File("in.txt"));
 
         FileWriter fw=new FileWriter("out1.txt");
         BufferedWriter bw=new BufferedWriter(fw);
