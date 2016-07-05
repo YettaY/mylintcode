@@ -10,9 +10,10 @@ class Interval {
     Interval(int s, int e) { start = s; end = e; }
 }
 public class Data_Stream_as_Disjoint_Intervals {
-    TreeMap<Integer, Interval> map=new TreeMap<>();
+
 
     public class SummaryRanges {
+        TreeMap<Integer, Interval> map=new TreeMap<>();
         /** Initialize your data structure here. */
         public SummaryRanges() {
             map=new TreeMap<Integer, Interval>();
