@@ -2,141 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="563b1d4b-d94f-4bd6-8c2c-9d848bc0d591" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gdragon007_0_1.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libenchao_0_1.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2017/Lazy_Spelling_Bee.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2017/Robot_Rock_Band$Pair.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2017/Robot_Rock_Band.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gsnake$Pair.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gsnake.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_B_APAC_Test_2016/Travel$Pair.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_B_APAC_Test_2016/Travel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/graph/spfa$node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/graph/spfa.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/test1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/test2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/周志华Co-training.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/A-small-attempt0.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gdragon007_0_1/pr_a.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libenchao_0_1/A.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/graph/A.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/graph/apactest.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/g_apac/Practice_Round_APAC_test_2017/Lazy_Spelling_Bee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/g_apac/Practice_Round_APAC_test_2017/Robot_Rock_Band.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/g_apac/Round_B_APAC_Test_2016/Travel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graph/A.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graph/apactest.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graph/spfa.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sub-1.out" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/A-large-practice.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/A-small-practice-1.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/A-small-practice-1out.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/A-small-practice-2.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/A-small-practice-2out.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/A-small-practice.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/C-large-practice.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/C-small-practice-1.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/C-small-practice-2.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/C-small-practice.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gSnake$node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gSnake$snake.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/mylintcode/test.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/D-large-practice.in.txt" afterPath="$PROJECT_DIR$/D-large-practice.in" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/D-small-practice.in.txt" afterPath="$PROJECT_DIR$/D-small-practice.in" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test.java" afterPath="$PROJECT_DIR$/src/test1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Cat.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Cat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Dog.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Dog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/ListNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Main.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter$Node.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter$Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter$SortByOrder.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter$SortByOrder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/NestedInteger.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/NestedInteger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/NestedIterator.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/NestedIterator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Shape.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Shape.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/ShapeFactory.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/ShapeFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Toy.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Toy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/ToyFactory.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/ToyFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Tweet.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Tweet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Bad_Horse.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Bad_Horse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Captain_Hammer.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Captain_Hammer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Moist.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Moist.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/Googol_String.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/Googol_String.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gCampus$Edge.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gCampus$Edge.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gCampus.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gCampus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gCube.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gCube.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gSnake.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gSnake.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/graph/Dijkstra$node.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/graph/Dijkstra$node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/graph/Dijkstra.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/graph/Dijkstra.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/graph/Dijkstra1$node.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/graph/Dijkstra1$node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/graph/Dijkstra1.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/graph/Dijkstra1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution$1.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution$2.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/s131$1.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/s131$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/s131$2.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/s131$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/s131.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/s131.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s132/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s132/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s132/TrieNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s132/TrieNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s132/tree.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s132/tree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s136.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s136.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s178$uninfind.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s178$uninfind.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s178.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s178.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s204.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s204.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s223.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s223.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s391/Interval.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s391/Interval.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s391/point.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s391/point.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s391/s391$1.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s391/s391$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s391/s391.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s391/s391.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s4/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s4/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s426.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s426.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s427.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s427.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s442/Trie.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s442/Trie.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s442/TrieNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s442/TrieNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s451.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s451.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s452.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s452.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s453.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s453.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s469.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s469.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s473/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s473/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s473/trie.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s473/trie.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s477.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s477.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s480.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s480.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s488.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s488.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/Rectangle.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/Rectangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/Shape.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/Shape.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/ShapeFactory.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/ShapeFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/Square.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/Square.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/Triangle.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/Triangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s508.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s508.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s510.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s510.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s511.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s511.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s512/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s512/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s513/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s513/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s514.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s514.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s515/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s515/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s516/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s516/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s524.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s524.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s532.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s532.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s532_2.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s532_2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s534.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s534.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s535.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s535.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s539.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s539.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s547.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s547.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s548.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s548.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/tree.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/tree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/B-large-practice.in" afterPath="$PROJECT_DIR$/B-large-practice.in" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/B-small-practice.in" afterPath="$PROJECT_DIR$/B-small-practice.in" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/in.txt" afterPath="$PROJECT_DIR$/in.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out.txt" afterPath="$PROJECT_DIR$/out.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out1.txt" afterPath="$PROJECT_DIR$/out1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gSnake.java" afterPath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2016/gSnake.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/graph/Dijkstra.java" afterPath="$PROJECT_DIR$/src/graph/Dijkstra.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/graph/Dijkstra1.java" afterPath="$PROJECT_DIR$/src/graph/Dijkstra1.java" />
     </list>
     <ignored path="mylintcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -201,7 +68,7 @@
       <file leaf-file-name="out1.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/out1.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="559">
               <caret line="99" column="12" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
               <folding />
             </state>
@@ -241,8 +108,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="504" />
-    <option name="y" value="68" />
+    <option name="x" value="183" />
+    <option name="y" value="52" />
     <option name="width" value="1163" />
     <option name="height" value="730" />
   </component>
@@ -728,8 +595,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="504" y="68" width="1163" height="730" extended-state="0" />
-    <editor active="true" />
+    <frame x="183" y="52" width="1163" height="730" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -739,9 +606,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18495297" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18495297" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24888493" sideWeight="0.5169713" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1630094" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1630094" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2988403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1080,7 +947,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/out1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="559">
           <caret line="99" column="12" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
           <folding />
         </state>
