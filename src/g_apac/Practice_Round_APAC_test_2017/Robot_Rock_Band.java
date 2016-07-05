@@ -180,7 +180,7 @@ private static void dfs2(Set<List<Integer>> r,Map<Integer,Integer> cur,int[] a,i
         }
     }
     public static void main(String[] args)throws IOException {
-        Scanner in = new Scanner(new File("B-small-practice.in"));//C-small-practice.in
+        Scanner in = new Scanner(new File("in.txt"));//B-small-practice.in
         FileWriter fw = new FileWriter("out1.txt");
         BufferedWriter bw = new BufferedWriter(fw);
 

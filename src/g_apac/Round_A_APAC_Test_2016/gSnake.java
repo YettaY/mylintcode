@@ -12,7 +12,7 @@ import java.util.Scanner;
 /**
  * Created by yanglu on 16/7/2.
  */
-public class gsnake {
+public class gSnake {
     static private class Pair<F, S> {
         public final F first;
         public final S second;
@@ -45,7 +45,7 @@ public class gsnake {
 
     public static void main(String[] args) throws IOException {
 
-        Scanner in=new Scanner(new File("D-large-practice.in"));
+        Scanner in=new Scanner(new File("in.txt"));//D-large-practice.in
         FileWriter fw=new FileWriter("out.txt");
         BufferedWriter bw=new BufferedWriter(fw);
 
