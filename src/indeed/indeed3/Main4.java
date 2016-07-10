@@ -2,87 +2,62 @@ package indeed.indeed3;
 
 import java.util.*;
 
+class Pair<L,R> {
+    private L l;
+    private R r;
+    public Pair(L l, R r){
+        this.l = l;
+        this.r = r;
+    }
+
+    public R getther(){
+        return r;
+    }
+
+}
+
 public class Main4 {
-    public static int rtn = 0;
-    public static boolean fun(int map[][], int row, int col, int cmp){
-        int cnt = 0;
-        int colend = cmp == 1 ? col : 5;
-        int rowend = cmp == 1 ? row : 5;
-        for(int j = 0; j <= colend; j++){
-            if(map[row][j] == cmp)
-                cnt ++;
-        }
-        if(cnt > 3)
-            return false;
-
-        cnt = 0;
-        for(int i = 0; i <= rowend; i++){
-            if(map[i][col] == cmp)
-                cnt ++;
-        }
-        if(cnt > 3)
-            return false;
-
-        return true;
-    }
-
-    public static boolean isvalid(int matrix[][]){
-        for(int i = 0; i < 6; i++){
-            int cnt = 0;
-            for(int j = 0; j < 6; j++){
-                if(matrix[i][j] == 0)
-                    cnt ++;
-            }
-            if(cnt > 3)
-                return false;
-        }
-        for(int j = 0; j < 6; j++){
-            int cnt = 0;
-            for(int i = 0; i < 6; i++){
-                if(matrix[i][j] == 0)
-                    cnt ++;
-            }
-            if(cnt > 3)
-                return false;
-        }
-        return true;
-    }
-    public static void dfs(int index, int map[][]){
-        if(index == 36){
-            rtn++;
-            return;
-        }
-        int row = index / 6, col = index % 6;
-        if(map[row][col] == 0){
-            dfs(index + 1, map);
-        }else{
-            map[row][col] = 0;
-            if(fun(map, row, col, 0))
-                dfs(index + 1, map);
-
-            map[row][col] = 1;
-            if(fun(map, row, col, 1))
-                dfs(index + 1, map);
-        }
-    }
-
-
     public static void main(String[] args) {
+        Main4 s = new Main4();
+        System.out.println(s.fun());
+    }
+    public long fun() {
         Scanner in = new Scanner(System.in);
-        int map[][] = new int[6][6];
-        for(int i = 0; i < 6; i++){
-            String s = in.next();
-            for(int j = 0; j < 6; j++){
-                map[i][j] = s.charAt(j) == 'o' ? 0 : 1;
+        int n = in.nextInt();
+        String str = in.next();
+        int[] arr = new int[n+1];
+        for (int i = 0; i <= n; i++)
+            arr[i] = in.nextInt();
+        Stack<Pair<Character, Integer>> s = new Stack<Pair<Character, Integer>>();
+        int[] minb = new int[n+1], mina = new int[n+1];
+        int min = Integer.MAX_VALUE;
+        for (int i = 0; i <= n; i++) {
+            if (arr[i] < min) {
+                min = arr[i];
+            }
+            minb[i] = min;
+        }
+        min = Integer.MAX_VALUE;
+        for (int i = n; i >= 0; i--) {
+            if (arr[i] < min) {
+                min = arr[i];
+            }
+            mina[i] = min;
+        }
+        long r = 0;
+        for (int i = 0; i < n; i++) {
+            if (str.charAt(i) == '(') {
+                s.push(new Pair<Character, Integer>('(', i));
+            } else {
+                if (s.isEmpty()) {
+                    r += minb[i];
+                } else {
+                    s.pop();
+                }
             }
         }
-        if(!isvalid(map)){
-            System.out.println(0);
-            return;
-        }
-        dfs(0, map);
-        System.out.println(rtn);
+        while (!s.isEmpty())
+            r += mina[s.pop().getther() + 1];
+        return r;
     }
-
-
 }

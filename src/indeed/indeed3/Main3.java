@@ -3,86 +3,76 @@ package indeed.indeed3;
 import java.util.*;
 
 public class Main3 {
-    public static int rtn = 0;
-    public static boolean fun(int map[][], int row, int col, int cmp){
-        int cnt = 0;
-        int colend = cmp == 1 ? col : 5;
-        int rowend = cmp == 1 ? row : 5;
-        for(int j = 0; j <= colend; j++){
-            if(map[row][j] == cmp)
-                cnt ++;
-        }
-        if(cnt > 3)
-            return false;
-
-        cnt = 0;
-        for(int i = 0; i <= rowend; i++){
-            if(map[i][col] == cmp)
-                cnt ++;
-        }
-        if(cnt > 3)
-            return false;
-
-        return true;
-    }
-
-    public static boolean isvalid(int matrix[][]){
-        for(int i = 0; i < 6; i++){
-            int cnt = 0;
-            for(int j = 0; j < 6; j++){
-                if(matrix[i][j] == 0)
-                    cnt ++;
-            }
-            if(cnt > 3)
-                return false;
-        }
-        for(int j = 0; j < 6; j++){
-            int cnt = 0;
-            for(int i = 0; i < 6; i++){
-                if(matrix[i][j] == 0)
-                    cnt ++;
-            }
-            if(cnt > 3)
-                return false;
-        }
-        return true;
-    }
-    public static void dfs(int index, int map[][]){
-        if(index == 36){
-            rtn++;
-            return;
-        }
-        int row = index / 6, col = index % 6;
-        if(map[row][col] == 0){
-            dfs(index + 1, map);
-        }else{
-            map[row][col] = 0;
-            if(fun(map, row, col, 0))
-                dfs(index + 1, map);
-
-            map[row][col] = 1;
-            if(fun(map, row, col, 1))
-                dfs(index + 1, map);
-        }
-    }
-
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int map[][] = new int[6][6];
-        for(int i = 0; i < 6; i++){
-            String s = in.next();
-            for(int j = 0; j < 6; j++){
-                map[i][j] = s.charAt(j) == 'o' ? 0 : 1;
+        int rn = in.nextInt(), cn = in.nextInt();
+
+        char[][] table = new char[rn][cn];
+        for (int i = 0; i < rn; i++) {
+            String str = in.next();
+            for (int j = 0; j < cn; j++) {
+                table[i][j] = str.charAt(j);
             }
         }
-        if(!isvalid(map)){
-            System.out.println(0);
-            return;
+
+        double[][] square = getsquare(table);
+
+        double r = 0.0;
+        for (int i = 0; i < rn; i++) {
+            for (int j = 0; j < cn; j++) {
+                r += square[i][j];
+            }
         }
-        dfs(0, map);
-        System.out.println(rtn);
+
+        System.out.print(String.format("%.15f", r));
     }
 
+    private static double[][] getsquare(char[][] t) {
+        int rn = t.length, cn = t[0].length;
+        double[][] kn = new double[rn][cn];
+        int x = 0, y = 0;
+        kn[x][y] = 1;
+        for (y = 1; y < cn; y++) {
+            switch (t[x][y-1]) {
+                case 'R':
+                    kn[x][y] = 0;
+                    break;
+                case 'C':
+                    kn[x][y] = 1;
+                    break;
+                case '?':
+                    kn[x][y] = 0.5;
+                    break;
+            }
+        }
+        y = 0;
+        for (x = 1; x < rn; x++) {
+            switch (t[x-1][y]) {
+                case 'R':
+                    kn[x][y] = 1;
+                    break;
+                case 'C':
+                    kn[x][y] = 0;
+                    break;
+                case '?':
+                    kn[x][y] = 0.5;
+                    break;
+            }
+        }
 
+        for (x = 1; x < rn; x++) {
+            for (y = 1; y < cn; y++) {
+                if (t[x-1][y] == 'C' || t[x][y-1] == 'R') {
+                    kn[x][y] = 0;
+                } else if (t[x-1][y] == 'R' && t[x][y-1] == 'C') {
+                    kn[x][y] = 1;
+                } else if (t[x-1][y] == '?' && t[x][y-1] == '?') {
+                    kn[x][y] = 0.25;
+                } else {
+                    kn[x][y] = 0.5;
+                }
+            }
+        }
+        return kn;
+    }
 }
