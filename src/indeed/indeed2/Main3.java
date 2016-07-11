@@ -1,8 +1,8 @@
-package indeed;
+package indeed.indeed2;
 
 import java.util.*;
-
-public class Main4 {
+//6*6矩阵，‘O’表示不能添加，‘.'表示能添加，计算所有的可能性，保证每行每列都有三个piece
+public class Main3 {
     public static int rtn = 0;
     public static boolean fun(int map[][], int row, int col, int cmp){
         int cnt = 0;

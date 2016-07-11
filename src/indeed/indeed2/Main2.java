@@ -1,4 +1,4 @@
-package indeed;
+package indeed.indeed2;
 
 import java.util.*;
 public class Main2 {
