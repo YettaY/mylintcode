@@ -2,108 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c366eae-03ab-44d9-ac18-3dfa03b42105" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/indeed/indeed2/Main1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/indeed/indeed3/Main2$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/indeed/indeed3/Main2$node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/indeed/indeed3/Main2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/indeed/indeed3/Main3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/indeed/indeed3/Main4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/indeed/indeed3/Pair.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/Twitter$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/Twitter$Tweet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/Twitter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/indeed/indeed3/Main1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/indeed/indeed3/Main2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/indeed/indeed3/Main3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/indeed/indeed3/Main4.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/mylintcode/indeed/Main1.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/mylintcode/indeed/Main2.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/indeed/indeed2/Main2.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/mylintcode/indeed/Main3.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/indeed/indeed2/Main3.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/mylintcode/indeed/Main4.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/indeed/indeed2/Main4.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/indeed/Main1.java" afterPath="$PROJECT_DIR$/src/indeed/indeed2/Main1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/indeed/Main2.java" afterPath="$PROJECT_DIR$/src/indeed/indeed2/Main2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/indeed/Main3.java" afterPath="$PROJECT_DIR$/src/indeed/indeed2/Main3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/indeed/Main4.java" afterPath="$PROJECT_DIR$/src/indeed/indeed2/Main4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Cat.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Cat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Dog.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Dog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/ListNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Main.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter$Node.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter$Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter$SortByOrder.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter$SortByOrder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/MiniTwitter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/NestedInteger.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/NestedInteger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/NestedIterator.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/NestedIterator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Shape.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Shape.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/ShapeFactory.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/ShapeFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Toy.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Toy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/ToyFactory.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/ToyFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Tweet.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Tweet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Bad_Horse.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Bad_Horse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Moist.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Practice_Round_APAC_test_2016/Moist.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/Googol_String.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/Googol_String.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Easy/Sum_of_Two_Integers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Hard/First_Missing_Positive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Hard/Longest_Consecutive_Sequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Hard/Wildcard_Matching.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Medium/Reverse_Words_in_a_String.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Medium/Wiggle_Subsequence.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gSnake.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/g_apac/Round_A_APAC_Test_2016/gSnake.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/Russian_Doll_Envelopes$1.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/Russian_Doll_Envelopes$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution$1.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution$2.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/s131$1.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/s131$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/s131$2.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/s131$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s131/s131.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s131/s131.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s132/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s132/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s132/TrieNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s132/TrieNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s132/tree.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s132/tree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s136.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s136.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s178$uninfind.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s178$uninfind.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s178.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s178.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s204.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s204.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s223.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s223.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s4/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s4/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s426.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s426.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s427.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s427.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s442/Trie.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s442/Trie.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s442/TrieNode.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s442/TrieNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s451.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s451.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s452.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s452.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s453.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s453.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s469.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s469.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s473/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s473/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s473/trie.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s473/trie.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s477.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s477.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s480.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s480.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s488.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s488.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/Rectangle.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/Rectangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/Shape.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/Shape.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/ShapeFactory.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/ShapeFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/Square.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/Square.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s497/Triangle.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s497/Triangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s508.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s508.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s510.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s510.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s511.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s511.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s512/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s512/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s513/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s513/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s514.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s514.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s515/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s515/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s516/Solution.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s516/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s524.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s524.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s532.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s532.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s532_2.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s532_2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s534.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s534.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s535.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s535.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s539.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s539.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s547.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s547.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/s548.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/s548.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/test1.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/test1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/test2.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/test2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/tree.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/tree.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/in.txt" afterPath="$PROJECT_DIR$/in.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out1.txt" afterPath="$PROJECT_DIR$/out1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main1.java" afterPath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main2.java" afterPath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main3.java" afterPath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main4.java" afterPath="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util/Pair.java" afterPath="$PROJECT_DIR$/src/util/Pair.java" />
     </list>
     <ignored path="Lintcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -124,72 +30,62 @@
     <favorites_list name="Lintcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main1.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Wildcard_Matching.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Wildcard_Matching.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#872#880#0" expanded="true" />
-                <element signature="e#1019#1030#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="62" column="15" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1529#1530#0" expanded="true" />
-                <element signature="e#1579#1580#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="in.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/in.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="119">
+              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="out1.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out1.txt">
+      <file leaf-file-name="First_Missing_Positive.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/First_Missing_Positive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="510">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main3.java">
+      <file leaf-file-name="Longest_Consecutive_Sequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Longest_Consecutive_Sequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="408">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main4.java">
+      <file leaf-file-name="Reverse_Words_in_a_String.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Medium/Reverse_Words_in_a_String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+            <state relative-caret-position="952">
+              <caret line="56" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Wiggle_Subsequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Medium/Wiggle_Subsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Twitter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Twitter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -221,13 +117,19 @@
         <option value="$PROJECT_DIR$/in.txt" />
         <option value="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main2.java" />
         <option value="$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main4.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Easy/Sum_of_Two_Integers.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Hard/Wildcard_Matching.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Hard/First_Missing_Positive.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Hard/Longest_Consecutive_Sequence.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Medium/Reverse_Words_in_a_String.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Medium/Wiggle_Subsequence.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="116" />
-    <option name="y" value="96" />
-    <option name="width" value="1163" />
+    <option name="x" value="192" />
+    <option name="y" value="44" />
+    <option name="width" value="1009" />
     <option name="height" value="730" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -237,7 +139,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -256,14 +158,107 @@
     </navigator>
     <panes>
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lintcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lintcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lintcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lintcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lintcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lintcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lintcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Medium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lintcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lintcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lintcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lintcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
       <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="RunManager" selected="Application.Main4">
+  <component name="RunManager" selected="Application.Reverse_Words_in_a_String">
     <configuration default="false" name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -284,46 +279,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="g_apac.Round_A_APAC_Test_2017.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="g_apac.Round_A_APAC_Test_2017.Main3" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mylintcode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="g_apac.Round_A_APAC_Test_2017.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="g_apac.Round_A_APAC_Test_2017.Main1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mylintcode" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="false" name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -332,6 +287,66 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="g_apac.Round_A_APAC_Test_2017.Main4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mylintcode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Wildcard_Matching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.Hard.Wildcard_Matching" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mylintcode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="First_Missing_Positive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.Hard.First_Missing_Positive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mylintcode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Reverse_Words_in_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.Medium.Reverse_Words_in_a_String" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -623,18 +638,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Main2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main3" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main1" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main4" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main4" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Wildcard_Matching" />
+      <item index="3" class="java.lang.String" itemvalue="Application.First_Missing_Positive" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Reverse_Words_in_a_String" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main4" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main1" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main3" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Reverse_Words_in_a_String" />
+        <item index="1" class="java.lang.String" itemvalue="Application.First_Missing_Positive" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Wildcard_Matching" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main4" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -645,6 +662,9 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -657,40 +677,50 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="116" y="96" width="1163" height="730" extended-state="1" />
-    <editor active="true" />
+    <frame x="192" y="44" width="1009" height="730" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1661442" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24977699" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24922441" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1661442" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39968652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -698,65 +728,31 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/indeed/indeed3/Main1.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Longest_Consecutive_Sequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="408">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/g_apac/Practice_Round_APAC_test_2016/Bad_Horse.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Medium/Reverse_Words_in_a_String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="29" column="27" selection-start-line="27" selection-start-column="8" selection-end-line="29" selection-end-column="27" />
+        <state relative-caret-position="952">
+          <caret line="56" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Medium/Wiggle_Subsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/g_apac/Practice_Round_APAC_test_2016/Captain_Hammer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="51" column="19" selection-start-line="48" selection-start-column="12" selection-end-line="51" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/indeed/indeed3/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/indeed/indeed3/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-447">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#1240#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Twitter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -764,11 +760,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out1.txt">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Wildcard_Matching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/First_Missing_Positive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Longest_Consecutive_Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Medium/Reverse_Words_in_a_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Medium/Wiggle_Subsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Wildcard_Matching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/First_Missing_Positive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Longest_Consecutive_Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Twitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Easy/Sum_of_Two_Integers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="62" column="15" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -776,49 +857,250 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="340">
           <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="1190">
           <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="62" column="15" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1529#1530#0" expanded="true" />
-            <element signature="e#1579#1580#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="62" column="15" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/indeed/indeed3/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/g_apac/Practice_Round_APAC_test_2016/Bad_Horse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="29" column="27" selection-start-line="27" selection-start-column="8" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/g_apac/Practice_Round_APAC_test_2016/Captain_Hammer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="51" column="19" selection-start-line="48" selection-start-column="12" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/indeed/indeed3/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/indeed/indeed3/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-447">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="62" column="15" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/g_apac/Round_A_APAC_Test_2017/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
           <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#872#880#0" expanded="true" />
-            <element signature="e#1019#1030#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Easy/Sum_of_Two_Integers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="33" selection-start-line="7" selection-start-column="7" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/indeed/indeed2/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/Dijkstra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/Dijkstra1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/spfa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Wildcard_Matching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/First_Missing_Positive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Longest_Consecutive_Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Medium/Reverse_Words_in_a_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Medium/Wiggle_Subsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Twitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
