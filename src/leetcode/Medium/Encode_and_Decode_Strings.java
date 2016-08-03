@@ -57,7 +57,7 @@ public class Encode_and_Decode_Strings {
     }
 
     public static void main(String[] args) {
-        EncodeandDecodeStrings encodeandDecodeStrings = new EncodeandDecodeStrings();
+
         List<String> list = new LinkedList<String>();
         // ["63/Rc","h","BmI3FS~J9#vmk","7uBZ?7*/","24h+X","O "]
         list.add("63/Rc");
@@ -66,8 +66,8 @@ public class Encode_and_Decode_Strings {
         list.add("7uBZ?7*/");
         list.add("24h+X");
         list.add("0 ");
-        String s = encodeandDecodeStrings.encode(list);
+        String s = encode(list);
         System.out.println(s);
-        System.out.println(encodeandDecodeStrings.decode(s));
+        System.out.println(decode(s));
     }
 }
