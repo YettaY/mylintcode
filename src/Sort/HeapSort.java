@@ -1,5 +1,7 @@
 package Sort;
 
+import java.util.*;
+
 public class HeapSort {
 	public static void swap(int[] a,int i,int j)
     {
@@ -118,6 +120,7 @@ public class HeapSort {
 
                 // 交换完父节点和子节点的值，对换了值的子节点检查是否符合最大堆的特性
                 maxHeapify(data, largestNodeIndex, heapSize);
+                List<Integer> r=new ArrayList<>();
             }
         }
 }
