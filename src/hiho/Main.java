@@ -3,103 +3,104 @@ import java.util.*;
 /**
  * Created by Administrator on 2016/8/7.
  */
+
 public class Main {
-    static private class node{
-        int s,e,c;
-        public node(int s,int e,int c){
-            this.s=s;
-            this.e=e;
-            this.c=c;
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        int[] a = new int[n];
+        for (int i = 0; i < n; ++i)
+            a[i] = in.nextInt();
+        int max = cnt(a);
+        if (max * 2 > a.length + 1) {
+            System.out.print(-1);
+            return ;
         }
-    }
 
-
-    public static void dijkstra(int n, int v0, int[] dist, int[] path, int[][] map) //v0表示源顶点
-    {
-        boolean[] visited=new boolean[n];
-        for(int i=0;i<n;i++)     //初始化
-        {
-            if(map[v0][i]<Integer.MAX_VALUE && i!=v0)
-            {
-                dist[i] = map[v0][i];
-                path[i] = v0;     //path记录最短路径上从v0到i的前一个顶点
+        List<List<Integer>> r=new ArrayList();
+        Arrays.sort(a);
+        dfs(r, a, 0,0);
+        if (r.size() == 0) {
+            System.out.print(-1);
+            return;
+        }
+        Collections.sort(r, new Comparator<List<Integer>>() {
+            public int compare(List<Integer> o1, List<Integer> o2) {
+                for (int i = 0; i < o1.size(); ++i) {
+                    if (o1.get(i) != o2.get(i))
+                        return o1.get(i).compareTo(o2.get(i));
+                }
+                return 0;
             }
+        });
+   //     System.out.println(r);
+        List<Integer> result = r.get(0);
+//        for (int i=0;i<r.size();i++){
+//            List<Integer> cur=r.get(i);
+//            boolean f=true;
+//            for(int j=0;j<cur.size()-1;j++){
+//                if (cur.get(j)==cur.get(j+1)){
+//                    f=false;
+//                    break;
+//                }
+//            }
+//            if(f){
+//               result=cur;
+//                break;
+//            }
+//        }
+        for (int i = 0; i < result.size(); ++i) {
+            if (i == result.size() - 1)
+                System.out.print(result.get(i));
             else
-            {
-                dist[i] = Integer.MAX_VALUE;    //若i不与v0直接相邻，则权值置为无穷大
-                path[i] = -1;
-            }
-            visited[i]=false;
-            path[v0]=v0;
-            dist[v0]=0;
-        }
-        visited[v0]=true;
-        for(int i=1;i<n;i++)     //循环扩展n-1次
-        {
-            int min=Integer.MAX_VALUE;
-            int u=0;
-            for(int j=0;j<n;j++)    //寻找未被扩展的权值最小的顶点
-            {
-                if(visited[j]==false && dist[j]<min)
-                {
-                    min=dist[j];
-                    u=j;
-                }
-            }
-            visited[u]=true;
-            for(int k=0;k<n;k++)   //更新dist数组的值和路径的值
-            {
-                if(visited[k]==false && map[u][k]<Integer.MAX_VALUE && min+map[u][k] < dist[k])
-                {
-                    dist[k]=min+map[u][k];
-                    path[k]=u;
-                }
-            }
+                System.out.print(result.get(i) + " ");
         }
     }
-
-    public static String searchPath(int[] path,int v, int v0) //打印最短路径上的各个顶点
-    {
-        StringBuilder sb=new StringBuilder();
-        Stack<Integer> s=new Stack<>();
-        int u=v;
-        while(v!=v0)
-        {
-            s.push(v);
-            v=path[v];
+    public static void dfs(List<List<Integer>> r,int[] n,int id,int last){
+        if(id==n.length){
+            List<Integer> cur=new ArrayList();
+            for(int i=0;i<n.length;i++)
+                cur.add(n[i]);
+            r.add(cur);
+            return;
         }
-        s.push(v);
+        for(int i=id;i<n.length;i++){
 
-        while(!s.empty()) {
+            int t=n[i];
+            n[i]=n[id];
+            n[id]=t;
+            if(i-1>=0 && n[i]==n[i-1] || i+1<n.length && n[i]==n[i+1]|| id-1>=0 && n[id-1]==n[id] || id+1<n.length && n[id]==n[id+1])
+                continue;
+            if(!isvalid(n, id, i))
+                continue;
+            dfs(r,n, id+1,n[i]);
+            t=n[i];
+            n[i]=n[id];
+            n[id]=t;
 
-            if (s.size()>1)
-                sb.append(s.pop() + "-");
-            else
-                sb.append(s.pop());
-
-        }
-        return sb.toString();
-    }
-    public static void main(String[] args){
-        Scanner in=new Scanner(System.in);
-        while(in.hasNextInt()){
-            int n=in.nextInt(), m=in.nextInt();
-            int[][] map=new int[n+m][n+m];
-            for (int i = 0 ; i < n+m ; i++) {
-                for (int j = 0 ; j < n+m; j++) {
-                    map[i][j] = Integer.MAX_VALUE; // account for overflow
-                }
-                map[i][i] = 0;
-            }
-            for(int id=0,i=0;id<n-1;id++){
-                int cur=in.nextInt();
-                for(int j=0;j<m;j++){
-                    int u=i*m+j, v=(i+1)*m+j;
-                    map[u][v]=map[v][u]=cur;
-
-                }
-            }
         }
     }
-
+    public static int cnt(int[] a) {
+        Arrays.sort(a);
+        int count = 1;
+        int max = 0;
+        for (int i = 0; i < a.length - 1; ++i) {
+            if (a[i] == a[i + 1]) {
+                count++;
+            } else {
+                count = 1;
+            }
+            max = Math.max(max, count);
+        }
+        return max;
+    }
+    public static boolean isvalid(int[] n,int s, int e){
+        Set<Integer> set=new HashSet<>();
+        for(int i=s;i<e;i++) {
+            if (set.contains(n[i]))
+                return false;
+            set.add(n[i]);
+        }
+        return true;
+    }
 }

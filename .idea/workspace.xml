@@ -2,11 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf2fe0cd-0935-4708-a045-d63c13261685" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hiho/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hiho/Main1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hiho/Main2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hiho/Main3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/google/Array.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/google/CompressStr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/google/MyRNG.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/google/MyRNG2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/google/RandomArray.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/google/SimilarTree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/google/TreeNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/google/lengthOfLongestSubstringKDistinct.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Easy/Reverse_String.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Easy/Sum_of_Two_Integers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Easy/Unique_Word_Abbreviation$ValidWordAbbr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Easy/Unique_Word_Abbreviation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/First_Missing_Positive.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/Longest_Consecutive_Sequence.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/Longest_Substring_with_At_Most_K_Distinct_Characters.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/Range_Sum_Query_2D_Mutable$NumMatrix.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/Range_Sum_Query_2D_Mutable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/Shortest_Distance_from_All_Buildings$Tuple.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/Shortest_Distance_from_All_Buildings.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/Wiggle_Sort.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Hard/Wildcard_Matching.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Binary_Tree_Longest_Consecutive_Sequence.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Combination_Sum_IV.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Interval.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Meeting_Rooms_II$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Meeting_Rooms_II.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Missing_Ranges.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Reverse_Words_in_a_String.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/ThreeSum_Smaller.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/TreeNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Walls_and_Gates.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Wiggle_Subsequence.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Zigzag_Iterator$ZigzagIterator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Zigzag_Iterator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/wangyi/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/wangyi/Main1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/wangyi/Main1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/wangyi/Main2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/wangyi/Main3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/mylintcode/wangyi/node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google/Array.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google/CompressStr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google/RandomArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google/SimilarTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google/lengthOfLongestSubstringKDistinct.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Easy/Moving_Average_from_Data_Stream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Easy/Reverse_String.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Easy/Strobogrammatic_Number.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Easy/Sum_of_Two_Integers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Easy/Unique_Word_Abbreviation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Hard/First_Missing_Positive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Hard/Longest_Consecutive_Sequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Hard/Longest_Substring_with_At_Most_K_Distinct_Characters.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Hard/Range_Sum_Query_2D_Mutable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Hard/Shortest_Distance_from_All_Buildings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Hard/Wiggle_Sort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Hard/Wildcard_Matching.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Medium/Binary_Tree_Longest_Consecutive_Sequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Medium/Combination_Sum_IV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Medium/Generalized_Abbreviation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Medium/Meeting_Rooms_II.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Medium/Missing_Ranges.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Medium/Reverse_Words_in_a_String.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Medium/ThreeSum_Smaller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Medium/Walls_and_Gates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Medium/Wiggle_Subsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Medium/Zigzag_Iterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wangyi/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wangyi/Main1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wangyi/Main2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wangyi/Main3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Microsoft/Tanxing_SummerCamp/Main3.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Microsoft/Tanxing_SummerCamp/Main3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Microsoft/Tanxing_SummerCamp/Main4.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Microsoft/Tanxing_SummerCamp/Main4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/Sort/HeapSort.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/Sort/HeapSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Find_K_Pairs_with_Smallest_Sums$1.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Find_K_Pairs_with_Smallest_Sums$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Find_K_Pairs_with_Smallest_Sums$2.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Find_K_Pairs_with_Smallest_Sums$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Find_K_Pairs_with_Smallest_Sums.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Find_K_Pairs_with_Smallest_Sums.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Largest_Divisible_Subset.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Largest_Divisible_Subset.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Super_Pow.class" afterPath="$PROJECT_DIR$/out/production/mylintcode/leetcode/Medium/Super_Pow.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Sort/HeapSort.java" afterPath="$PROJECT_DIR$/src/Sort/HeapSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hiho/Main.java" afterPath="$PROJECT_DIR$/src/hiho/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hiho/Main1.java" afterPath="$PROJECT_DIR$/src/hiho/Main1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hiho/Main2.java" afterPath="$PROJECT_DIR$/src/hiho/Main2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hiho/Main3.java" afterPath="$PROJECT_DIR$/src/hiho/Main3.java" />
     </list>
     <ignored path="mylintcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +107,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EncodeAndDecode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/google/EncodeAndDecode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="45" column="90" selection-start-line="45" selection-start-column="90" selection-end-line="45" selection-end-column="90" />
-              <folding>
-                <element signature="e#3772#3773#0" expanded="true" />
-                <element signature="e#3803#3804#0" expanded="true" />
-                <element signature="e#3857#3858#0" expanded="true" />
-                <element signature="e#3895#3896#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Match.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/google/Match.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -52,71 +117,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bomb_enemy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/google/bomb_enemy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="124" column="48" selection-start-line="124" selection-start-column="48" selection-end-line="124" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hiho/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="235">
+              <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dijkstra.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/graph/Dijkstra.java">
+      <file leaf-file-name="Shortest_Distance_from_All_Buildings.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Shortest_Distance_from_All_Buildings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="117" column="13" selection-start-line="112" selection-start-column="12" selection-end-line="117" selection-end-column="13" />
+            <state relative-caret-position="1071">
+              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dijkstra1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/graph/Dijkstra1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="127" column="17" selection-start-line="124" selection-start-column="16" selection-end-line="127" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hiho/Main1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spfa.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/graph/spfa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2675">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hiho/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="1500">
+              <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -125,8 +150,8 @@
       <file leaf-file-name="Main3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hiho/Main3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="1175">
+              <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -153,20 +178,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/Medium/Encode_and_Decode_Strings.java" />
-        <option value="$PROJECT_DIR$/src/google/EncodeAndDecode.java" />
-        <option value="$PROJECT_DIR$/src/google/Match.java" />
-        <option value="$PROJECT_DIR$/src/google/bomb_enemy.java" />
-        <option value="$PROJECT_DIR$/src/hiho/Main3.java" />
-        <option value="$PROJECT_DIR$/src/hiho/Main2.java" />
         <option value="$PROJECT_DIR$/src/hiho/Main1.java" />
+        <option value="$PROJECT_DIR$/src/hiho/Main2.java" />
+        <option value="$PROJECT_DIR$/src/hiho/Main3.java" />
         <option value="$PROJECT_DIR$/src/hiho/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="335" />
-    <option name="y" value="180" />
+    <option name="x" value="302" />
+    <option name="y" value="85" />
     <option name="width" value="1534" />
     <option name="height" value="907" />
   </component>
@@ -198,69 +219,20 @@
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mylintcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hiho" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
       <pane id="Scratches" />
     </panes>
   </component>
-  <component name="RunManager" selected="Application.bomb_enemy">
-    <configuration default="false" name="Match" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Shortest_Distance_from_All_Buildings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="google.*" />
+          <option name="PATTERN" value="leetcode.Hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="google.Match" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Hard.Shortest_Distance_from_All_Buildings" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -273,14 +245,54 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="bomb_enemy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="google.*" />
+          <option name="PATTERN" value="hiho.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="google.bomb_enemy" />
+      <option name="MAIN_CLASS_NAME" value="hiho.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mylintcode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="hiho.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="hiho.Main2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mylintcode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="hiho.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="hiho.Main3" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -512,14 +524,18 @@
       <listeners />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.Match" />
-      <item index="1" class="java.lang.String" itemvalue="Application.bomb_enemy" />
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.Shortest_Distance_from_All_Buildings" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main3" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.bomb_enemy" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Match" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main3" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Shortest_Distance_from_All_Buildings" />
       </list>
     </recent_temporary>
   </component>
@@ -537,28 +553,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="335" y="180" width="1534" height="907" extended-state="1" />
-    <editor active="false" />
+    <frame x="302" y="85" width="1534" height="907" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858992" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32746956" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32729626" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858992" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24966079" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24966079" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -599,10 +615,10 @@
         <state relative-caret-position="1125">
           <caret line="45" column="90" selection-start-line="45" selection-start-column="90" selection-end-line="45" selection-end-column="90" />
           <folding>
-            <element signature="e#3772#3773#0" expanded="true" />
-            <element signature="e#3803#3804#0" expanded="true" />
-            <element signature="e#3857#3858#0" expanded="true" />
-            <element signature="e#3895#3896#0" expanded="true" />
+            <element signature="e#3772#3773#0" expanded="false" />
+            <element signature="e#3803#3804#0" expanded="false" />
+            <element signature="e#3857#3858#0" expanded="false" />
+            <element signature="e#3895#3896#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -636,10 +652,10 @@
         <state relative-caret-position="1125">
           <caret line="45" column="90" selection-start-line="45" selection-start-column="90" selection-end-line="45" selection-end-column="90" />
           <folding>
-            <element signature="e#3772#3773#0" expanded="true" />
-            <element signature="e#3803#3804#0" expanded="true" />
-            <element signature="e#3857#3858#0" expanded="true" />
-            <element signature="e#3895#3896#0" expanded="true" />
+            <element signature="e#3772#3773#0" expanded="false" />
+            <element signature="e#3803#3804#0" expanded="false" />
+            <element signature="e#3857#3858#0" expanded="false" />
+            <element signature="e#3895#3896#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -665,34 +681,11 @@
         <state relative-caret-position="1125">
           <caret line="45" column="90" selection-start-line="45" selection-start-column="90" selection-end-line="45" selection-end-column="90" />
           <folding>
-            <element signature="e#3772#3773#0" expanded="true" />
-            <element signature="e#3803#3804#0" expanded="true" />
-            <element signature="e#3857#3858#0" expanded="true" />
-            <element signature="e#3895#3896#0" expanded="true" />
+            <element signature="e#3772#3773#0" expanded="false" />
+            <element signature="e#3803#3804#0" expanded="false" />
+            <element signature="e#3857#3858#0" expanded="false" />
+            <element signature="e#3895#3896#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hiho/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hiho/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,30 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2675">
           <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hiho/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/google/Match.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/google/bomb_enemy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="124" column="48" selection-start-line="124" selection-start-column="48" selection-end-line="124" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -744,10 +713,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hiho/Main.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hiho/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/google/bomb_enemy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="124" column="48" selection-start-line="124" selection-start-column="48" selection-end-line="124" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/google/Match.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hiho/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hard/Shortest_Distance_from_All_Buildings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hiho/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hiho/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
           <folding />
         </state>
       </provider>

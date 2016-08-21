@@ -1,15 +1,5 @@
 package Sort;
-/**
- * ¹¹Ôì³õÊ¼¶Ñ
-³õÊ¼»¯¶ÑµÄÊ±ºòÊÇ¶ÔËùÓĞµÄ·ÇÒ¶×Ó½áµã½øĞĞÉ¸Ñ¡¡£
-×îºóÒ»¸ö·ÇÖÕ¶ËÔªËØµÄÏÂ±êÊÇ[n/2]ÏòÏÂÈ¡Õû£¬ËùÒÔÉ¸Ñ¡Ö»ĞèÒª´ÓµÚ[n/2]ÏòÏÂÈ¡Õû¸öÔªËØ¿ªÊ¼£¬´ÓºóÍùÇ°½øĞĞµ÷Õû¡£
-±ÈÈç£¬¸ø¶¨Ò»¸öÊı×é£¬Ê×ÏÈ¸ù¾İ¸ÃÊı×éÔªËØ¹¹ÔìÒ»¸öÍêÈ«¶ş²æÊ÷¡£
-È»ºó´Ó×îºóÒ»¸ö·ÇÒ¶×Ó½áµã¿ªÊ¼£¬Ã¿´Î¶¼ÊÇ´Ó¸¸½áµã¡¢×óº¢×Ó¡¢ÓÒº¢×ÓÖĞ½øĞĞ±È½Ï½»»»£¬½»»»¿ÉÄÜ»áÒıÆğº¢×Ó½áµã²»Âú×ã¶ÑµÄĞÔÖÊ£¬ËùÒÔÃ¿´Î½»»»Ö®ºóĞèÒªÖØĞÂ¶Ô±»½»»»µÄº¢×Ó½áµã½øĞĞµ÷Õû¡£
-½øĞĞ¶ÑÅÅĞò
-¡¡¡¡ÓĞÁË³õÊ¼¶ÑÖ®ºó¾Í¿ÉÒÔ½øĞĞÅÅĞòÁË¡£
-¶ÑÅÅĞòÊÇÒ»ÖÖÑ¡ÔñÅÅĞò¡£½¨Á¢µÄ³õÊ¼¶ÑÎª³õÊ¼µÄÎŞĞòÇø¡£
-ÅÅĞò¿ªÊ¼£¬Ê×ÏÈÊä³ö¶Ñ¶¥ÔªËØ£¨ÒòÎªËüÊÇ×îÖµ£©£¬½«¶Ñ¶¥ÔªËØºÍ×îºóÒ»¸öÔªËØ½»»»£¬ÕâÑù£¬µÚn¸öÎ»ÖÃ£¨¼´×îºóÒ»¸öÎ»ÖÃ£©×÷ÎªÓĞĞòÇø£¬Ç°n-1¸öÎ»ÖÃÈÔÊÇÎŞĞòÇø£¬¶ÔÎŞĞòÇø½øĞĞµ÷Õû£¬µÃµ½¶ÑÖ®ºó£¬ÔÙ½»»»¶Ñ¶¥ºÍ×îºóÒ»¸öÔªËØ£¬ÕâÑùÓĞĞòÇø³¤¶È±äÎª2¡£¡£¡£
-²»¶Ï½øĞĞ´Ë²Ù×÷£¬½«Ê£ÏÂµÄÔªËØÖØĞÂµ÷ÕûÎª¶Ñ£¬È»ºóÊä³ö¶Ñ¶¥ÔªËØµ½ÓĞĞòÇø¡£Ã¿´Î½»»»¶¼µ¼ÖÂÎŞĞòÇø-1£¬ÓĞĞòÇø+1¡£²»¶ÏÖØ¸´´Ë¹ı³ÌÖ±µ½ÓĞĞòÇø³¤¶ÈÔö³¤Îªn-1£¬ÅÅĞòÍê³É¡£*/
+
 public class HeapSort {
 	public static void swap(int[] a,int i,int j)
     {
@@ -76,4 +66,58 @@ public class HeapSort {
         	System.out.print(n[i]+" ");
 	}
 
+
+
+
+
+    public static void sort(Comparable[] data) {
+            // æ„å»ºæœ€å¤§å †
+            buildMaxHeap(data);
+            // å¾ªç¯ï¼Œæ¯æ¬¡æŠŠæ ¹èŠ‚ç‚¹å’Œæœ€åä¸€ä¸ªèŠ‚ç‚¹è°ƒæ¢ä½ç½®
+            for (int i = data.length; i > 1; i--) {
+                Comparable tmp = data[0];
+                data[0] = data[i - 1];
+                data[i - 1] = tmp;
+
+                // å †çš„é•¿åº¦å‡å°‘1ï¼Œæ’é™¤ç½®æ¢åˆ°æœ€åä½ç½®çš„æ ¹èŠ‚ç‚¹
+                maxHeapify(data, 1, i - 1);
+            }
+        }
+
+        // æ ¹æ®è¾“å…¥æ•°ç»„æ„å»ºä¸€ä¸ªæœ€å¤§å †
+        private static void buildMaxHeap(Comparable[] data) {
+            for (int i = data.length / 2; i > 0; i--) {
+                maxHeapify(data, i, data.length);
+            }
+        }
+
+        //å †è°ƒæ•´ï¼Œä½¿å…¶ç”Ÿæˆæœ€å¤§å †
+        private static void maxHeapify(Comparable[] data, int parentNodeIndex, int heapSize) {
+            // å·¦å­èŠ‚ç‚¹ç´¢å¼•
+            int leftChildNodeIndex = parentNodeIndex * 2;
+            // å³å­èŠ‚ç‚¹ç´¢å¼•
+            int rightChildNodeIndex = parentNodeIndex * 2 + 1;
+            // æœ€å¤§èŠ‚ç‚¹ç´¢å¼•
+            int largestNodeIndex = parentNodeIndex;
+
+            // å¦‚æœå·¦å­èŠ‚ç‚¹å¤§äºçˆ¶èŠ‚ç‚¹ï¼Œåˆ™å°†å·¦å­èŠ‚ç‚¹ä½œä¸ºæœ€å¤§èŠ‚ç‚¹
+            if (leftChildNodeIndex <= heapSize && data[leftChildNodeIndex - 1].compareTo(data[parentNodeIndex - 1]) > 0) {
+                largestNodeIndex = leftChildNodeIndex;
+            }
+
+            // å¦‚æœå³å­èŠ‚ç‚¹æ¯”æœ€å¤§èŠ‚ç‚¹è¿˜å¤§ï¼Œé‚£ä¹ˆæœ€å¤§èŠ‚ç‚¹åº”è¯¥æ˜¯å³å­èŠ‚ç‚¹
+            if (rightChildNodeIndex <= heapSize && data[rightChildNodeIndex - 1].compareTo(data[largestNodeIndex - 1]) > 0) {
+                largestNodeIndex = rightChildNodeIndex;
+            }
+
+            // æœ€åï¼Œå¦‚æœæœ€å¤§èŠ‚ç‚¹å’Œçˆ¶èŠ‚ç‚¹ä¸ä¸€è‡´ï¼Œåˆ™äº¤æ¢ä»–ä»¬çš„å€¼
+            if (largestNodeIndex != parentNodeIndex) {
+                Comparable tmp = data[parentNodeIndex - 1];
+                data[parentNodeIndex - 1] = data[largestNodeIndex - 1];
+                data[largestNodeIndex - 1] = tmp;
+
+                // äº¤æ¢å®Œçˆ¶èŠ‚ç‚¹å’Œå­èŠ‚ç‚¹çš„å€¼ï¼Œå¯¹æ¢äº†å€¼çš„å­èŠ‚ç‚¹æ£€æŸ¥æ˜¯å¦ç¬¦åˆæœ€å¤§å †çš„ç‰¹æ€§
+                maxHeapify(data, largestNodeIndex, heapSize);
+            }
+        }
 }
