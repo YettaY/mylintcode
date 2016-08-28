@@ -53,7 +53,7 @@ public class Generalized_Abbreviation {
         }
         else {
             dfs(r, w, s, id + 1, cnt + 1);
-            dfs(r, w, s, id + 1, 0);
+            dfs(r, w, s+(cnt>0?cnt:"")+w.charAt(id), id + 1, 0);
         }
     }
 

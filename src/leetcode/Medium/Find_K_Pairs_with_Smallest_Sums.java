@@ -5,47 +5,54 @@ import  java.util.*;
  * Created by Administrator on 2016/7/17.
  */
 public class Find_K_Pairs_with_Smallest_Sums {
+    static class Pair implements Comparable<Pair>{
+        int[] pair;
+        int id;
+        int sum;
+        public Pair(int id, int n1, int n2){
+            this.id=id;
+            pair=new int[]{n1,n2};
+            this.sum=n1+n2;
+        }
+        public int compareTo(Pair p){
+            return this.sum-p.sum;
+        }
+    }
     public static List<int[]> kSmallestPairs(int[] nums1, int[] nums2, int k) {
-        ArrayList r=new ArrayList<int[]>();
+        List r=new ArrayList<int[]>();
         if (nums1==null || nums2==null || nums1.length==0 || nums2.length==0)
             return r;
-     //   Set<int[]> set=new HashSet<>();
-        Queue<int[]> q=new PriorityQueue<int[]>(11, new Comparator<int[]>() {
-            @Override
-            public int compare(int[] o1, int[] o2) {
-                int sum1=o1[0]+o1[1], sum2=o2[0]+o2[1];
-                return sum1-sum2;
-            }
-        });
-        TreeSet<int[]> set= new TreeSet<int[]>(new Comparator() {
-            @Override
-            public int compare(Object o1, Object o2) {
-                int[] n1= (int[]) o1, n2=(int[]) o2;
-                int sum1=n1[0]+n1[1], sum2=n2[0]+n2[1];
-                return sum1-sum2;
-            }
-        });
-        boolean f=false;
-        for (int i=0;i<nums1.length;i++){
-            for (int j=0;j<nums2.length;j++){
-                int[] arr={nums1[i], nums2[j]};
-                q.add(arr);
-//                if (q.size()==k) {
-//                    f=true;
-//                    break;
+        //Solution 1: O(KN)
+//        int[] id=new int[nums1.length];
+//        while(k-->0){
+//            int min=Integer.MAX_VALUE;
+//            int in=-1;
+//            for(int i=0;i<nums1.length;i++){
+//                if(id[i]>=nums2.length)
+//                    continue;
+//                if(nums1[i]+nums2[id[i]]<min){
+//                    min=nums1[i]+nums2[id[i]];
+//                    in=i;
 //                }
-//                if (!set.contains(arr)) {
-//                    set.add(arr);
-//                    if (set.size()==k) {
-//                        f=true;
-//                        break;
-//                    }
-//                }
-            }
-//            if (f)
+//            }
+//            if(in==-1)
 //                break;
-        }
+//            r.add(new int[]{nums1[in],nums2[id[in]]});
+//            id[in]++;
+//        }
+//        return r;
 
+        //Solution 2: O(klgk)
+        Queue<Pair> q=new PriorityQueue<>();
+        for(int i=0;i<nums1.length && i<k;i++){
+            q.offer(new Pair(0,nums1[i],nums2[0]));
+        }
+        for(int i=1;i<=k && !q.isEmpty();i++){
+            Pair cur=q.poll();
+            r.add(cur.pair);
+            if(cur.id+1< nums2.length)
+                q.offer(new Pair(cur.id+1, cur.pair[0],nums2[cur.id+1]));
+        }
         return r;
     }
     public static void main(String[] args){
