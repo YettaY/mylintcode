@@ -1,19 +1,19 @@
 package Sort;
-// 桶排序
+// 桶锟斤拷锟斤拷
 
 public class BucketSort {
 	public static void sort(int[] a,int min,int max){
 		int[] b=new int[max-min], t=new int[a.length];
-        // buckets数组定义了max-min个桶
-		 // 计算每个元素在序列出现的次数
+        // buckets锟斤拷锟介定锟斤拷锟斤拷max-min锟斤拷桶
+		 // 锟斤拷锟斤拷每锟斤拷元锟斤拷锟斤拷锟斤拷锟叫筹拷锟街的达拷锟斤拷
 		for(int i:a)
 			b[i-min]++;
-		// 计算“落入”各桶内的元素在有序序列中的位置
+		// 锟斤拷锟姐“锟斤拷锟诫”锟斤拷桶锟节碉拷元锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟叫碉拷位锟斤拷
 		for(int i=1;i<b.length;i++)
 			b[i]+=b[i-1];
-		   // 将data中的元素完全复制到tmp数组中
+		   // 锟斤拷data锟叫碉拷元锟斤拷锟斤拷全锟斤拷锟狡碉拷tmp锟斤拷锟斤拷锟斤拷
 		System.arraycopy(a, 0, t, 0, a.length);
-		 // 根据buckets数组中的信息将待排序列的各元素放入相应位置
+		 // 锟斤拷锟斤拷buckets锟斤拷锟斤拷锟叫碉拷锟斤拷息锟斤拷锟斤拷锟斤拷锟斤拷锟叫的革拷元锟截凤拷锟斤拷锟斤拷应位锟斤拷
 		for(int i=a.length-1;i>=0;i--)
 			a[--b[t[i]-min]]=t[i];
 	}
@@ -23,6 +23,7 @@ public class BucketSort {
 		sort(a, 0, 10);
 		for(int i=0;i<a.length;i++)
 			System.out.print(a[i]+" ");
+
 	}
 
 }
