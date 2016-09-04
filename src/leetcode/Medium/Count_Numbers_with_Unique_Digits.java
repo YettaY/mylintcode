@@ -13,13 +13,33 @@ package leetcode.Medium;
  */
 public class Count_Numbers_with_Unique_Digits {
     public int countNumbersWithUniqueDigits(int n) {
-        if(n==0)
+        //Solution 1:
+//        if(n==0)
+//            return 1;
+//        int base=9, ans=10;
+//        for (int i=2;i<=n && i<=10;i++){
+//            base *= (9-i+2);
+//            ans+=base;
+//        }
+//        return ans;
+
+        //Solution 2:
+        /*The idea is to append one digit at a time recursively (only append digits that has not been appended before).
+        Number zero is a special case, because we don't want to deal with the leading zero, so it is counted separately at the beginning of the program.
+        The running time for this program is O(10!) worst case, or O(n!) if n < 10.*/
+        return dfs(new boolean[10], n, 0);
+    }
+    public int dfs(boolean[] v,int n,int d){
+        if (d==n)
             return 1;
-        int base=9, ans=10;
-        for (int i=2;i<=n && i<=10;i++){
-            base *= (9-i+2);
-            ans+=base;
+        int r=1;
+        for (int i=(d==0)?1:0;i<=9;i++){
+            if (!v[i]){
+                v[i]=true;
+                r+=dfs(v,n,d+1);
+                v[i]=false;
+            }
         }
-        return ans;
+        return r;
     }
 }
