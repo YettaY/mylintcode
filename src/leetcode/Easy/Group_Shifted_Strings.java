@@ -20,7 +20,7 @@ import java.util.*;
  Then we can easily group the strings belonging to the same shifting sequence with the same key. The code is as the following:
  */
 public class Group_Shifted_Strings {
-    public List<List<String>> groupStrings(String[] strings) {
+    public static List<List<String>> groupStrings(String[] strings) {
         List<List<String>> res = null;
         Map<String,List<String>> map = new HashMap<>();
 
@@ -30,6 +30,7 @@ public class Group_Shifted_Strings {
 
             for(int i=0;i<string.length();i++){
                 key.append((char)(string.charAt(i)+26-shift)%26);
+                //System.out.println(key.toString());
             }
 
             String k = key.toString();
@@ -38,6 +39,10 @@ public class Group_Shifted_Strings {
         }
         res = new ArrayList<>(map.values());
         return res;
+    }
+    public static void main(String[] args){
+        String[] s={"abc", "bcd", "acef", "xyz", "az", "ba", "a", "z"};
+        groupStrings(s);
     }
 
 }
