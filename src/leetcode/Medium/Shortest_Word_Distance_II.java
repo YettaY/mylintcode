@@ -1,5 +1,5 @@
 package leetcode.Medium;
-
+import java.util.*;
 /**
  * Created by Administrator on 2016/9/5.
  This is a follow up of Shortest Word Distance. The only difference is now you are given the list of words and your method will be called repeatedly many times with different parameters. How would you optimize it?
@@ -16,20 +16,24 @@ package leetcode.Medium;
  */
 public class Shortest_Word_Distance_II {
     public class WordDistance {
-        String[] w;
+        Map<String, List<Integer>> map;
         public WordDistance(String[] words) {
-            this.w=words;
+           map=new HashMap<String, List<Integer>>();
+            for(int i=0;i<words.length;i++){
+                if(!map.containsKey(words[i]))
+                    map.put(words[i], new ArrayList<Integer>());
+                map.get(words[i]).add(i);
+            }
         }
 
         public int shortest(String word1, String word2) {
-            int p1=-1, p2=-1, min=Integer.MAX_VALUE;
-            for(int i=0;i<w.length;i++){
-                if(w[i].equals(word1))
-                    p1=i;
-                if(w[i].equals(word2))
-                    p2=i;
-                if(p1!=-1 && p2!=-1 && min > Math.abs(p1-p2))
-                    min=Math.abs(p1-p2);
+            List<Integer> w1=map.get(word1), w2=map.get(word2);
+            int i=0, j=0, min=Integer.MAX_VALUE;
+            while(i<w1.size() && j<w2.size()){
+                if(w1.get(i)<w2.get(j))
+                    min=Math.min(min, w2.get(j)-w1.get(i++));
+                else
+                    min=Math.min(min, w1.get(i)-w2.get(j++));
             }
             return min;
         }
