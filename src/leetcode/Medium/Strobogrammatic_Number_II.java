@@ -11,6 +11,7 @@ import java.util.*;
  Given n = 2, return ["11","69","88","96"].
  */
 public class Strobogrammatic_Number_II {
+    char[][] pair={{'0','0'},{'1','1'},{'6','9'},{'8','8'},{'9','6'}};
     public List<String> findStrobogrammatic(int n) {
         List<String> ans=new ArrayList<>();
         helper(ans,new char[n], 0,n-1);
@@ -23,27 +24,14 @@ public class Strobogrammatic_Number_II {
             ans.add(new String(a));
             return;
         }
-        if (l==r){
-            a[l]='0';
-            ans.add(new String(a));
-            a[l]='1';
-            ans.add(new String(a));
-            a[l]='8';
-            ans.add(new String(a));
-            return;
+        for(char[] p:pair){
+            a[l]=p[0];
+            a[r]=p[1];
+            if(a.length>1 && a[0]=='0')
+                continue;
+            if(l<r || l==r && p[0]==p[1]) //l<=r, n=1时，返回0, 1, 9, 8, 6
+                helper(ans, a, l+1, r-1);
         }
-        if (l!=0){
-            a[l]='0';a[r]='0';
-            helper(ans,a,l+1,r-1);
-        }
-        a[l]='1';a[r]='1';
-        helper(ans,a,l+1,r-1);
-        a[l]='6';a[r]='9';
-        helper(ans,a,l+1,r-1);
-        a[l]='8';a[r]='8';
-        helper(ans,a,l+1,r-1);
-        a[l]='9';a[r]='6';
-        helper(ans,a,l+1,r-1);
     }
 
 }
