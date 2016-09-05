@@ -1,4 +1,4 @@
-package leetcode.Hard;
+package leetcode.Medium;
 
 /**
  * Created by yanglu on 16/8/6.
