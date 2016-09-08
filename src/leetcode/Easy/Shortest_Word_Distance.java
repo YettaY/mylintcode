@@ -36,29 +36,16 @@ public class Shortest_Word_Distance {
 //                min= Math.min(n1[i]-n2[j++], min);
 //
 //        }
-//        while(i<i1)
-//        {
-//            if(Math.abs(n1[i]-n2[j-1]) > min)
-//                break;
-//            min=Math.abs(n1[i++]-n2[j-1]);
-//        }
-//        while(j<i2)
-//        {
-//            if(Math.abs(n1[i-1]-n2[j]) > min)
-//                break;
-//            min=Math.abs(n1[i-1]-n2[j++]);
-//        }
 //        return min;
 
         //Solution 2;
-        int p1=-1, p2=-1, min=Integer.MAX_VALUE;
+        int id=-1, min=Integer.MAX_VALUE;
         for(int i=0;i<words.length;i++){
-            if(words[i].equals(word1))
-                p1=i;
-            if(words[i].equals(word2))
-                p2=i;
-            if(p1!=-1 && p2!=-1 && min > Math.abs(p1-p2))
-                min=Math.abs(p1-p2);
+            if(words[i].equals(word1) || words[i].equals(word2)){
+                if(id != -1 && !words[id].equals(words[i]))
+                    min=Math.min(i-id, min);
+                id=i;
+            }
         }
         return min;
     }

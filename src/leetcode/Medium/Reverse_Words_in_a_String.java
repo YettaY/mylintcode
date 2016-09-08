@@ -8,55 +8,32 @@ import java.util.*;
  */
 public class Reverse_Words_in_a_String {
     public static String reverseWords(String s) {
-        if (s == null) return null;
+        //Solution 1:
+//        if(s==null || s.length()==0)
+//            return s;
+//        String[] str=s.split(" ");
+//        StringBuilder sb=new StringBuilder("");
+//        for(int i=str.length-1;i>=0;i--)
+//            if(!str[i].equals(""))
+//                sb.append(str[i]+" ");
+//        return sb.length()==0? "" : sb.substring(0,sb.length()-1);
 
-        //char[] a = s.toCharArray();
-        int n = s.length();
-
-        // step 1. reverse the whole string
-        s=reverse(s.toCharArray(), 0, n - 1);
-        // step 2. reverse each word
-        s=reverseWords(s.toCharArray(), n);
-        // step 3. clean up spaces
-        return cleanSpaces(s.toCharArray(), n);
-    }
-
-    static String reverseWords(char[] a, int n) {
-        int i = 0, j = 0;
-
-        while (i < n) {
-            while (i < j || i < n && a[i] == ' ') i++; // skip spaces
-            while (j < i || j < n && a[j] != ' ') j++; // skip non spaces
-            reverse(a, i, j - 1);                      // reverse the word
+        //Solution 2:
+        String r="";
+        int p=0;
+        for(int i=0;i<s.length();i++){
+            if (s.charAt(i) == ' ') {
+                if(i>p)
+                    r=s.substring(p, i)+" "+r;
+                p=i+1;
+            }
+            else if (i==s.length()-1)
+                    r=s.substring(p)+" "+r;
         }
-        return String.valueOf(a);
-    }
-
-    // trim leading, trailing and multiple spaces
-    static String cleanSpaces(char[] a, int n) {
-        int i = 0, j = 0;
-
-        while (j < n) {
-            while (j < n && a[j] == ' ') j++;             // skip spaces
-            while (j < n && a[j] != ' ') a[i++] = a[j++]; // keep non spaces
-            while (j < n && a[j] == ' ') j++;             // skip spaces
-            if (j < n) a[i++] = ' ';                      // keep only one space
-        }
-
-        return new String(a).substring(0, i);
-    }
-
-    // reverse a[] from a[i] to a[j]
-    private static String reverse(char[] a, int i, int j) {
-        while (i < j) {
-            char t = a[i];
-            a[i++] = a[j];
-            a[j--] = t;
-        }
-        return String.valueOf(a);
+        return r.length()==0 ? "" : r.substring(0, r.length()-1);
     }
     public static void main(String[] args){
-        String s="   a   b ";
+        String s="";
         System.out.println("\""+reverseWords(s)+"\"");
     }
 }
