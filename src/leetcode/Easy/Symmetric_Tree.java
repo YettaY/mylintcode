@@ -42,6 +42,8 @@ public class Symmetric_Tree {
             q.offer(right.right);
             q.offer(left.right);
             q.offer(right.left);
+            String s="adads";
+            s.toLowerCase().charAt(1);
         }
         return true;
     }
