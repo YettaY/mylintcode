@@ -1,5 +1,6 @@
 package leetcode.Easy;
 import java.util.*;
+import java.lang.Float;
 /**
  * Created by Administrator on 2016/9/13.
  *
@@ -35,5 +36,11 @@ public class Roman_to_Integer {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         System.out.println(romanToInt("MCMXCIX"));
+        float a=1.5996867438f;
+        float b=2.9735678894f, c= 3.6864684567943f;
+        System.out.println((a+b)+c==(b+a)+c);
+        System.out.println((a+b)+c==(a+c)+b);
+        for(int k=0;;)
+            System.out.println(k);
     }
 }
