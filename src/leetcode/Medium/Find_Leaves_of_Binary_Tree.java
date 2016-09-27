@@ -57,5 +57,9 @@ public class Find_Leaves_of_Binary_Tree {
 
         traversal.get(index).add(root.val);
         return index;
+    }public static void main(String[] args){
+        String s1="hello", s2="he"+new String("llo");
+        System.out.println(s1==s2);
     }
+
 }
