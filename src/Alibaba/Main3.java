@@ -1,54 +1,62 @@
 package Alibaba;
 
-/**
- * Created by yanglu on 16/9/19.
- */
 import java.util.*;
 
-public class Main3{
-    public static void main(String[] args) {
-        Scanner in=new Scanner(System.in);
-        int t=in.nextInt();
-        for(int id=0;id<t;id++){
-            int n=in.nextInt(), m=in.nextInt();
-            int[][] a=new int[n][m];
-            for(int i=0;i<n;i++)
-                for(int j=0;j>m;j++)
-                    a[i][j]=in.nextInt();
+public class Main3
+{
 
+    public static void main(String[] args)
+    {
+        Scanner in = new Scanner(System.in);
+        int n=in.nextInt();
+        if(n==1){
+            System.out.print(1);
+            return;
         }
-    }
-    public boolean first(int[][] a, int x, int y, int len){
-        for(int i=x;i<a.length && i-x<=len;i++){
-            if(a[i][y]==0)
-                return false;
-            if(y+len<a[0].length)
-                if(a[i][y+len]==0)
-                    return false;
-
+        List<List<Integer>> es=new ArrayList<List<Integer>>();
+        for(int i=0;i<n;i++)
+            es.add(new ArrayList<Integer>());
+        int[][] m=new int[n-1][2];
+        for(int i=0;i<n-1;i++){
+            m[i][0]=in.nextInt();
+            m[i][1]=in.nextInt();
         }
-        for(int j=y;j<a[0].length && j-y<=len;j++){
-            if(a[x][j]==0)
-                return false;
-            if(x+len<a.length)
-                if(a[x+len][j]==0)
-                    return false;
+        int[] pre=new int[n];
+        for(int[] e:m){
+            es.get(e[0]).add(e[1]);
+            pre[e[1]]++;
         }
-        return true;
-    }
-    public boolean second(int[][] a, int x, int y, int len){
-        for(int i=1;i<=len;i++){
-            if(i+x<a.length && i+y<a[0].length)
-                if(a[i+x][i+y]==0)
-                    return false;
-            if(i+x<a.length && y-i>=0)
-                if(a[i+x][y-i]==0)
-                    return false;
+        //System.out.println(es);
+        Queue<Integer> q=new LinkedList<Integer>();
+        for(int i=0;i<pre.length;i++){
+            if(pre[i]==0)
+                q.offer(i);
         }
-        if(x+2*len>=a.length)
-            return false;
-
-        return true;
+        int ans=1;
+        Deque<Integer> cnt=new LinkedList<>();
+        cnt.offer(0);
+        int childs=0;
+        while(!q.isEmpty()){
+            int cur=q.poll();
+            if(!cnt.isEmpty())
+                childs=cnt.pollFirst();
+            if(childs==1){
+                ans++;
+            }
+            else {
+                cnt.addFirst(--childs);
+            }
+            int id=0;
+            for(int i:es.get(cur)) {
+                if ((--pre[i]) == 0) {
+                    id++;
+                    q.offer(i);
+                }
+            }
+            if(id!=0)
+                cnt.addLast(id);
+        }
+        System.out.print(ans);
     }
 
 }
