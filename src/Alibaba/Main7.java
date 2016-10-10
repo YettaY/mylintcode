@@ -2,6 +2,8 @@ package Alibaba;
 
 /**
  * Created by yanglu on 16/9/23.
+ * 输入：一个数减8，再打乱的字符串
+ * 输出：求原始数最小的数的组合
  */
 import java.util.*;
 

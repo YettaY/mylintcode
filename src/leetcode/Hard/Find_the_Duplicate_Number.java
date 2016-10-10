@@ -32,17 +32,34 @@ public class Find_the_Duplicate_Number {
 //    }
 
     //Solution 3: 将下标和数值形成链表，重复值一定是环的入口
-    public int findDuplicate(int[] nums) {
-        int slow=nums[0], fast=nums[nums[0]],entry=nums[0];
-        while(slow!=fast){
+    public static int findDuplicate(int[] nums) {
+        int slow=nums[0], fast=nums[0];
+
+        while(fast<nums.length && nums[fast]<nums.length){
             slow=nums[slow];
             fast=nums[nums[fast]];
+            if(fast==slow)
+                break;
         }
-        slow=nums[slow];
-        while(entry!=slow){
-            entry=nums[entry];
+        slow=nums[0];
+        while(fast!=slow){
+            fast=nums[fast];
             slow=nums[slow];
         }
-        return entry;
+     //int slow=nums[0], fast=nums[nums[0]],entry=nums[0];
+//        while(slow!=fast){
+//            slow=nums[slow];
+//            fast=nums[nums[fast]];
+//        }
+//        slow=nums[slow];
+//        while(entry!=slow){
+//            entry=nums[entry];
+//            slow=nums[slow];
+//        }
+        return slow;
+    }
+    public static void main(String[] args){
+        int[] nums={2,1,4,2,3};
+        System.out.println(findDuplicate(nums));
     }
 }
